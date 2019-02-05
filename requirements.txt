@@ -1,0 +1,9 @@
+dataset==1.1.1
+isodate==0.6.0
+praw==6.1.0
+requests==2.20.1
+spotipy==2.4.4
+SQLAlchemy==1.2.14
+selenium==3.141.0
+beautifulsoup4==4.7.1
+google_api_python_client==1.7.8
